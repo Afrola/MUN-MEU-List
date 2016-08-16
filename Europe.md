@@ -1,5 +1,5 @@
-# Europe
+# European MEUs and MUNs
 
-| MEU/MUN | Name          | Date  |
-| -------:|:-------------:| -----:|
-|   MEU   | Mainz         | 06.05 |
+|MEU/MUN    |FB |Name                 |Place    | Date  |
+|:---------:|:-:|:--------------------|:--------|:-----:|
+|MEU|F| BEUM (http://www.belgrade-meu.org/)        | 06.05 |
