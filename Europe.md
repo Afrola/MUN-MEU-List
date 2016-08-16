@@ -2,4 +2,4 @@
 
 |MEU/MUN    |FB |Name                 |Place    | Date  |
 |:---------:|:-:|:--------------------|:--------|:-----:|
-|MEU|F| BEUM (http://www.belgrade-meu.org/)        | 06.05 |
+|MEU  |[F](https://www.facebook.com/ModelEU)  |[BEUM](http://www.belgrade-meu.org/)  | Belgrade, Serbia  |25.10 - 30.10  |
