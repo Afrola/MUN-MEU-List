@@ -55,7 +55,7 @@
 |MUN |[F](https://www.facebook.com/heidelberg.mun/)  |[HDMUN](http://www.hdmun.org/)  |Heidelberg, Germany  |07.01 - 08.01  |
 |MUN |[F](https://www.facebook.com/WarwickMUN/)  |WarMUN  |Coventry, England  |13.01 - 15.01  |
 |MUN |F  |[UbiMUN](http://www.ubimun.org/)  |Birmingham, England  |27.01 - 29.01  |
-|MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, England |27.01 - 29.01 |
+|MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, Ireland |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/uclmun/) |[UCLMUN](http://www.uclumodelunitednationssociety.com/) |London, England |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/mainmunfrankfurt/)  |[MainMUN](http://www.mainmun.de/)  |Frankfurt, Germany  |23.02 - 26.02  |
 |MUN |[F](https://www.facebook.com/BayernModelUN)  |[BayernMUN](http://bayernmun.org/)  |Nüremberg, Germany  |24.02 - 26.02  |
