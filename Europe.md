@@ -38,7 +38,7 @@
 |MUN |[F](https://www.facebook.com/klemun2016/)  |KleMUN  |Kleve, Germany  |16.11 - 19.11  |
 |MUN |[F](https://www.facebook.com/AsociacionUcmMun/)  |[MADMUN](http://ucmmun.weebly.com/)  |Madrid, Spain  |17.11 - 19.11  |
 |MUN |[F](https://www.facebook.com/KarlsruheMUN/)  |[KaMUN](http://kamun.org/)  |Karlsruhe, Germany  |18.11 - 20.11  |
-|MUN  |[F](https://www.facebook.com/NottinghamModelUnitedNationsnottsmun/)  |[NottsMUN](http://www.nottsmun.com/)  |Nottingham  |18.11 - 20.11  |
+|MUN  |[F](https://www.facebook.com/NottinghamModelUnitedNationsnottsmun/)  |[NottsMUN](http://www.nottsmun.com/)  |Nottingham, England  |18.11 - 20.11  |
 |MUN |[F](https://www.facebook.com/UriosUtrechtModelUnitedNations/)|[URUMUN](https://urumun.com/)|Utrecht, Netherlands |23.11 - 26.11  |
 |MUN |[F](https://www.facebook.com/ReadiMUN/)|[ReadiMUN](http://www.readimun.org/tentative-schedule.html)|Reading, England|25.11 - 27.11
 |MUN |[F](https://www.facebook.com/BIMUNSINUBeV?fref=ts)  |[BIMUN](http://bimun.org/neue_hp/en/)  |Bonn, Germany  |30.11 - 04.12|
@@ -58,7 +58,7 @@
 |MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, England |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/uclmun/) |[UCLMUN](http://www.uclumodelunitednationssociety.com/) |London, England |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/mainmunfrankfurt/)  |[MainMUN](http://www.mainmun.de/)  |Frankfurt, Germany  |23.02 - 26.02  |
-|MUN |[F](https://www.facebook.com/BayernModelUN)  |[BayernMUN](http://bayernmun.org/)  |Nüremberg  |24.02 - 26.02  |
+|MUN |[F](https://www.facebook.com/BayernModelUN)  |[BayernMUN](http://bayernmun.org/)  |Nüremberg, Germany  |24.02 - 26.02  |
 |MUN |[F](https://www.facebook.com/ScotMUN-292831064161005/)  |[ScotMUN](http://www.scotmun.com/) |Edinburgh, Scotland |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/LiverpoolMUN)  |LivMUN[](http://livmun.com/)  |Liverpool, England  |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/KULMUN/)  |[KULMUN](http://www.kulmun.be/)  |Leuven, Belgium  |07.03 - 11.03  |
