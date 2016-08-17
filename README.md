@@ -8,4 +8,3 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 #[E U R O P E](https://github.com/The-Artisan-Geek/MUN-MEU-List/blob/master/Europe.md)
 
-#[A M E R I C A](https://github.com/The-Artisan-Geek/MUN-MEU-List/blob/master/America.md) 
