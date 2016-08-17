@@ -52,15 +52,15 @@
 |MEU/MUN    |FB |Name                 |Place    | Date  |
 |:---------:|:-:|:--------------------|:--------|:-----:|
 |MUN |[F](https://www.facebook.com/heidelberg.mun/)  |[HDMUN](http://www.hdmun.org/)  |Heidelberg, Germany  |07.01 - 08.01  |
-|MUN |[F](https://www.facebook.com/WarwickMUN/)  |WarMUN  |  |13.01 - 15.01  |
+|MUN |[F](https://www.facebook.com/WarwickMUN/)  |WarMUN  |Coventry, England  |13.01 - 15.01  |
 |MUN |F  |[UbiMUN](http://www.ubimun.org/)  |Birmingham, England  |27.01 - 29.01  |
 |MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, England |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/uclmun/) |[UCLMUN](http://www.uclumodelunitednationssociety.com/) |London, England |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/mainmunfrankfurt/)  |[MainMUN](http://www.mainmun.de/)  |Frankfurt, Germany  |23.02 - 26.02  |
-|MUN |[F](https://www.facebook.com/BayernModelUN)  |[BayernMUN](http://bayernmun.org/)  |  |24.02 - 26.02  |
+|MUN |[F](https://www.facebook.com/BayernModelUN)  |[BayernMUN](http://bayernmun.org/)  |Nüremberg  |24.02 - 26.02  |
 |MUN |[F](https://www.facebook.com/ScotMUN-292831064161005/)  |[ScotMUN](http://www.scotmun.com/) |Edinburgh, Scotland |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/LiverpoolMUN)  |LivMUN[](http://livmun.com/)  |Liverpool, England  |03.03 - 05.03  |
-|MUN |[F](https://www.facebook.com/KULMUN/)  |[KULMUN](http://www.kulmun.be/)  |  |07.03 - 11.03  |
+|MUN |[F](https://www.facebook.com/KULMUN/)  |[KULMUN](http://www.kulmun.be/)  |Leuven, Belgium  |07.03 - 11.03  |
 |MUN |[F](https://www.facebook.com/ROMEMUNOFFICIAL/)  |[Rome MUN](http://www.romemun.org/)  |Rome, Italy  |11.03 - 14.03  |
 |MUN |[F](https://www.facebook.com/UkraineMUN/)  |MUN Ukraine  |Lviv, Ukraine   |05.04 - 07.04  |
 |MUN |[F](https://www.facebook.com/awesome.mimun)  |[MiMUN](http://modelun.ru/)  |Moscow, Russia  |16.04 - 21.04  |
