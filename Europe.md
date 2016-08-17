@@ -8,7 +8,7 @@
 |MUN  |[F](https://www.facebook.com/polmun.warsaw)  |[POLMUN](http://polmun.waw.pl/)  |Warsaw, Poland  |08.09 - 11.09  |
 |MUN  |[F](https://www.facebook.com/PlzenskaDiplomatickaSimulace)  |[PDS](http://www.plzenskasimulace.cz/en/)  |Pilsen, Czech Republic  |09.09 - 14.09  |
 |MUN |[F](https://www.facebook.com/MaltMUN)  |[MaltMUN](http://www.maltmun.org.mt/)  |Valletta, Malta  |09.09 - 11.09  |
-|MUN |[F](https://www.facebook.com/coaje.consejoatlanticojuvenilespanol/?fref=nf)  |[YMD](http://www.coaje.es/)  |Spain  |12.09 - 18.09  
+|MUN |[F](https://www.facebook.com/coaje.consejoatlanticojuvenilespanol/?fref=nf)  |[YMD](http://www.coaje.es/)  |Madrid, Spain  |12.09 - 18.09  
 |MUN |[F](https://www.facebook.com/munimun.cz)  |[MuniMUN](http://munimun.org/)  |Brno, Czech Republic  |14.09 - 18.09  |
 |MUN |[F](https://www.facebook.com/SloveniaInternationalModelofUnitedNations)  |[SiMUN](http://simunmeos.wixsite.com/simunmeos)  |Ljubljana, Slovenia   |19.09 - 23.09  |
 |MEU |[F](https://www.facebook.com/meu.madrid)  |[Madrid MEU](http://meu-madrid.wixsite.com/) |Madrid, Spain |19.09 - 24.09 |
