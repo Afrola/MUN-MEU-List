@@ -33,6 +33,7 @@
 |MUN |[F](https://www.facebook.com/bratmun.conference/)  |[BratMUN](http://bratmun.sk)  |Bratislava, Slovakia |04.11 - 06.11  |
 |MUN |[F](https://www.facebook.com/cumuns/)  |[CUIMUN](http://www.cuimun.org/)  |Cambridge, England  |04.11 - 06.11  |
 |MUN |[F](https://www.facebook.com/StockholmModelUnitedNations/)  |[SMUN](http://smun.se/)  |Stockholm, Sweden  |10.11 - 13.11  |
+|MUN |[F](https://www.facebook.com/OxIMUN)  |[OxIMUN](http://www.oximun.org/)  |Oxford, England  |11.11 - 13.11  |
 |MUN |[F](https://www.facebook.com/munsiegen)  |[SiegMUN](http://www.mun-siegen.de/)  |Siegen, Germany  |16.11 - 19.11  |
 |MUN |[F](https://www.facebook.com/klemun2016/)  |KleMUN  |Kleve, Germany  |16.11 - 19.11  |
 |MUN |[F](https://www.facebook.com/AsociacionUcmMun/)  |[MADMUN](http://ucmmun.weebly.com/)  |Madrid, Spain  |17.11 - 19.11  |
