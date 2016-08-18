@@ -74,7 +74,7 @@
 |MUN |[F](https://www.facebook.com/ParisMUN/?fref=nf)  |[PiMUN](http://pimun.fr)  |Paris, France  |24.05 - 28.05  |
 |MUN  |[F](https://www.facebook.com/AntwerpMUN/)  |[Antwerp MUN](http://www.antwerpmun.be/)  |Antwerp, Belgium  |-  |
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
-|MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dreseden, Germany  |-  |
+|MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/finmun/)  |[FinMUN](http://www.finmun.org/)  |Helsinki, Finland  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KICSim](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KonMUN](http://unakonstanz.de/)  |Konstanz, Germany |-  |
