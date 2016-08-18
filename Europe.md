@@ -76,6 +76,7 @@
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/finmun/)  |[FinMUN](http://www.finmun.org/)  |Helsinki, Finland  |-  |
+|MUN |[F](https://www.facebook.com/heidelberg.mun/)  |[HDMUN](http://www.hdmun.org/)  |Heidelberg, Germany  |07.01 - 08.01  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KICSim](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KonMUN](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/leidenmunfoundation/)  |[LeidenMUN](http://leidenmun.org/)  |Leiden, Netherlands |-  |
