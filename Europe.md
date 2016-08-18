@@ -72,19 +72,19 @@
 |MUN |[F](https://www.facebook.com/cmunbcn/)  |[C'MUN Barcelona](http://www.cmunbcn.org/)  |Barcelona, Spain  |11.05 - 14.05  |
 |MUN |[F](https://www.facebook.com/LyonMun/)  |[LyonMUN](http://www.lyonmun.org/)  |Lyon, France  |18.05 - 21.05  |
 |MUN |[F](https://www.facebook.com/ParisMUN/?fref=nf)  |[PiMUN](http://pimun.fr)  |Paris, France  |24.05 - 28.05  |
-|MUN  |[F](https://www.facebook.com/AntwerpMUN/)  |[AntwerpenMUN](http://www.antwerpmun.be/)  |Antwerp, Belgium  |-  |
+|MUN  |[F](https://www.facebook.com/AntwerpMUN/)  |[Antwerp MUN](http://www.antwerpmun.be/)  |Antwerp, Belgium  |-  |
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dreseden, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/finmun/)  |[FinMUN](http://www.finmun.org/)  |Helsinki, Finland  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KICSim](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KonMUN](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/leidenmunfoundation/)  |[LeidenMUN](http://leidenmun.org/)  |Leiden, Netherlands |-  |
+|MUN |[F](https://www.facebook.com/munmannheim/?ref=py_c)  |[MaMUN](http://www.mun-mannheim.de/) |Mannheim, Germany  |-  |
 |MEU |[F](https://www.facebook.com/MEUVienna)  |[MEU Vienna](http://www.meu-vienna.at/)  |Vienna, Austria   |-  |
 |MEU |[F](https://www.facebook.com/meumainz)  |[MEU](http://meum.aegee-mainz.de/)  |Mainz, Germany   |-  |
 |MEU |[F](https://www.facebook.com/meustrasbourg/)  |[MEUS](http://www.meu-strasbourg.org/)  |Strasbourg, France   |-  |
 |MUN |[F](https://www.facebook.com/Milan-International-Model-United-Nations-MILMUN-45388276659/)|[MilMUN](http://www.milmun.org/)|Milan, Italy| - |
 |MUN  |[F](https://www.facebook.com/MOSTIMUN/)  |[MOSTIMUN](http://mostimun.org/)  |Mostar, Bosnia and Herzegovina  |-  |
-|MUN |[F](https://www.facebook.com/munmannheim/?ref=py_c)  |[MaMUN](http://www.mun-mannheim.de/) |Mannheim, Germany  |-  |
 |MUN |[F](https://www.facebook.com/MUNPrague/)  |[Prague MUN](http://www.praguemun.cz/)  |Prague, Czech Republic  |-  |
 
 
