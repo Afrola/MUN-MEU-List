@@ -88,3 +88,4 @@
 |MUN  |[F](https://www.facebook.com/MOSTIMUN/)  |[MOSTIMUN](http://mostimun.org/)  |Mostar, Bosnia and Herzegovina  |-  |
 |MUN |[F](https://www.facebook.com/MUNPrague/)  |[Prague MUN](http://www.praguemun.cz/)  |Prague, Czech Republic  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[SCSC](http://unakonstanz.de/)  |Konstanz, Germany |-  |
+|MUN  |[F](https://www.facebook.com/unisca.amsterdam/)  |[UNISCA](http://www.unisca.org/)  |Amsterdam, Netherlands |-  |
