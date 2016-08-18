@@ -1,4 +1,4 @@
-# European MEUs and MUNs
+# Upcoming European MEUs and MUNs
 
 ## 2016
 |MEU/MUN    |FB |Name                 |Place    | Date  |
