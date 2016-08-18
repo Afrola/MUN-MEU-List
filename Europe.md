@@ -52,7 +52,7 @@
 ## 2017
 |MEU/MUN    |FB |Name                 |Place    | Date  |
 |:---------:|:-:|:--------------------|:--------|:-----:|
-|MUN |[F](https://www.facebook.com/heidelberg.mun/)  |[HDMUN](http://www.hdmun.org/)  |Heidelberg, Germany  |07.01 - 08.01  |
+|MUN |[F](https://www.facebook.com/WorldMUNHD/)  |[HNMUN](http://www.worldmun-hd.de/)  |Heidelberg, Germany  |07.01 - 08.01  |
 |MUN |[F](https://www.facebook.com/WarwickMUN/)  |WarMUN  |Coventry, England  |13.01 - 15.01  |
 |MUN |F  |[UbiMUN](http://www.ubimun.org/)  |Birmingham, England  |27.01 - 29.01  |
 |MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, Ireland |27.01 - 29.01 |
