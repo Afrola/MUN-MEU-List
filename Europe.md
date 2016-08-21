@@ -76,6 +76,7 @@
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/finmun/)  |[FinMUN](http://www.finmun.org/)  |Helsinki, Finland  |-  |
+|MUN  |[F](https://www.facebook.com/GoeMUN)  |[GüMUN](http://munsg.de/)  |Göttingen, Germany  |-  |
 |MUN |[F](https://www.facebook.com/heidelberg.mun/)  |[HDMUN](http://www.hdmun.org/)  |Heidelberg, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KICSim](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KonMUN](http://unakonstanz.de/)  |Konstanz, Germany |-  |
@@ -91,3 +92,4 @@
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[SCSC](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/TEIMUN-90758019510/)  |[TEIMUN](http://www.teimun.org/)  |The Hague, Netherlands|-  |
 |MUN  |[F](https://www.facebook.com/unisca.amsterdam/)  |[UNISCA](http://www.unisca.org/)  |Amsterdam, Netherlands |-  |
+|MUN  |[F](https://www.facebook.com/Wiesmun/)  |[WiesMUN](http://wiesmun.de/en)  |Wiesbaden, Germany |-  |
