@@ -72,6 +72,7 @@
 |MUN |[F](https://www.facebook.com/cmunbcn/)  |[C'MUN Barcelona](http://www.cmunbcn.org/)  |Barcelona, Spain  |11.05 - 14.05  |
 |MUN |[F](https://www.facebook.com/LyonMun/)  |[LyonMUN](http://www.lyonmun.org/)  |Lyon, France  |18.05 - 21.05  |
 |MUN |[F](https://www.facebook.com/ParisMUN/?fref=nf)  |[PiMUN](http://pimun.fr)  |Paris, France  |24.05 - 28.05  |
+|MUN  |[F](https://www.facebook.com/MUNICE/)  |[MUNICE](http://www.munice.org/)  |Nice, France  |08.06 - 11.06  |
 |MUN  |[F](https://www.facebook.com/AntwerpMUN/)  |[Antwerp MUN](http://www.antwerpmun.be/)  |Antwerp, Belgium  |-  |
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
