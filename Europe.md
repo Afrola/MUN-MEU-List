@@ -86,6 +86,7 @@
 |MEU |[F](https://www.facebook.com/meustrasbourg/)  |[MEUS](http://www.meu-strasbourg.org/)  |Strasbourg, France   |-  |
 |MUN |[F](https://www.facebook.com/Milan-International-Model-United-Nations-MILMUN-45388276659/)|[MilMUN](http://www.milmun.org/)|Milan, Italy| - |
 |MUN  |[F](https://www.facebook.com/MOSTIMUN/)  |[MOSTIMUN](http://mostimun.org/)  |Mostar, Bosnia and Herzegovina  |-  |
+|MUN  |[F](https://www.facebook.com/ModelUnitedNationsFrance/)  |[MUNFrance](http://www.munfrance.com/)  |Tours, France  |-  |
 |MUN |[F](https://www.facebook.com/MUNPrague/)  |[Prague MUN](http://www.praguemun.cz/)  |Prague, Czech Republic  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[SCSC](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/unisca.amsterdam/)  |[UNISCA](http://www.unisca.org/)  |Amsterdam, Netherlands |-  |
