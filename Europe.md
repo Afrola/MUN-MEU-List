@@ -89,4 +89,5 @@
 |MUN  |[F](https://www.facebook.com/ModelUnitedNationsFrance/)  |[MUNFrance](http://www.munfrance.com/)  |Tours, France  |-  |
 |MUN |[F](https://www.facebook.com/MUNPrague/)  |[Prague MUN](http://www.praguemun.cz/)  |Prague, Czech Republic  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[SCSC](http://unakonstanz.de/)  |Konstanz, Germany |-  |
+|MUN  |[F](https://www.facebook.com/TEIMUN-90758019510/)  |[TEIMUN](http://www.teimun.org/)  |The Hague, Netherlands|-  |
 |MUN  |[F](https://www.facebook.com/unisca.amsterdam/)  |[UNISCA](http://www.unisca.org/)  |Amsterdam, Netherlands |-  |
