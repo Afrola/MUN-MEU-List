@@ -91,6 +91,7 @@
 |MEU |[F](https://www.facebook.com/meustrasbourg/)  |[MEUS](http://www.meu-strasbourg.org/)  |Strasbourg, France   |-  |
 |MUN |[F](https://www.facebook.com/Milan-International-Model-United-Nations-MILMUN-45388276659/)|[MilMUN](http://www.milmun.org/)|Milan, Italy| - |
 |MUN  |[F](https://www.facebook.com/MOSTIMUN/)  |[MOSTIMUN](http://mostimun.org/)  |Mostar, Bosnia and Herzegovina  |-  |
+|MUN  |[F](https://www.facebook.com/EssexlModelUnitedNationsMUNEX/)  |[MUNEX](http://www.essexmun.com/)  |Essex, England  |-  |
 |MUN  |[F](https://www.facebook.com/ModelUnitedNationsFrance/)  |[MUNFrance](http://www.munfrance.com/)  |Tours, France  |-  |
 |MUN  |[F](https://www.facebook.com/MUNOfTheHague)  |[MUNOTH](http://www.munoth.net/)  |The Hague, Netherlands  |-  |
 |MUN  |[F](https://www.facebook.com/MUNtainGrenoble)  |[MUNtain](http://www.muntaingrenoble.com/)  |Rue Pierre Sémard, Grenoble, France  |-  |
