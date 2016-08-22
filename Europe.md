@@ -60,6 +60,7 @@
 |MUN |[F](https://www.facebook.com/mainmunfrankfurt/)  |[MainMUN](http://www.mainmun.de/)  |Frankfurt, Germany  |23.02 - 26.02  |
 |MUN |[F](https://www.facebook.com/BayernModelUN)  |[BayernMUN](http://bayernmun.org/)  |Nüremberg, Germany  |24.02 - 26.02  |
 |MUN  |[F](https://www.facebook.com/LIMUNConference/?hc_location=ufi)  |[LIMUN](http://www.limun.org.uk/)  |London, England |24.02 - 26.02  |
+|MUN  |[F](https://www.facebook.com/URJCMUN)  |[URJC MUN](http://www.urjcmun.com/)  |Madrid, Spain  |-.02  |
 |MUN |[F](https://www.facebook.com/ScotMUN-292831064161005/)  |[ScotMUN](http://www.scotmun.com/) |Edinburgh, Scotland |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/LiverpoolMUN)  |[LivMUN](http://livmun.com/)  |Liverpool, England  |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/CardiffMUN?fref=ts)  |CardiffMUN)  |Cardiff, Wales  |03.03 - 05.03  |
@@ -91,10 +92,11 @@
 |MEU |[F](https://www.facebook.com/meustrasbourg/)  |[MEUS](http://www.meu-strasbourg.org/)  |Strasbourg, France   |-  |
 |MUN |[F](https://www.facebook.com/Milan-International-Model-United-Nations-MILMUN-45388276659/)|[MilMUN](http://www.milmun.org/)|Milan, Italy| - |
 |MUN  |[F](https://www.facebook.com/MOSTIMUN/)  |[MOSTIMUN](http://mostimun.org/)  |Mostar, Bosnia and Herzegovina  |-  |
+|MUN  |[F](https://www.facebook.com/modelunitednationsnancy/)  |[MUNancy](http://www.unancy.com/)  |Nancy, France  |-  |
 |MUN  |[F](https://www.facebook.com/EssexlModelUnitedNationsMUNEX/)  |[MUNEX](http://www.essexmun.com/)  |Essex, England  |-  |
 |MUN  |[F](https://www.facebook.com/ModelUnitedNationsFrance/)  |[MUNFrance](http://www.munfrance.com/)  |Tours, France  |-  |
 |MUN  |[F](https://www.facebook.com/MUNOfTheHague)  |[MUNOTH](http://www.munoth.net/)  |The Hague, Netherlands  |-  |
-|MUN  |[F](https://www.facebook.com/MUNtainGrenoble)  |[MUNtain](http://www.muntaingrenoble.com/)  |Rue Pierre Sémard, Grenoble, France  |-  |
+|MUN  |[F](https://www.facebook.com/MUNtainGrenoble)  |[MUNtain](http://www.muntaingrenoble.com/)  |Grenoble, France  |-  |
 |MUN |[F](https://www.facebook.com/PaderMUN-255587598684/)  |[PaderMUN](https://padermun.wordpress.com/)  |Paderborn, Germany  |-  |
 |MUN |[F](https://www.facebook.com/MUNPrague/)  |[Prague MUN](http://www.praguemun.cz/)  |Prague, Czech Republic  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[SCSC](http://unakonstanz.de/)  |Konstanz, Germany |-  |
