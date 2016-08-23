@@ -70,9 +70,9 @@
 |MUN |[F](https://www.facebook.com/UkraineMUN/)  |MUN Ukraine  |Lviv, Ukraine   |05.04 - 07.04  |
 |MUN |[F](https://www.facebook.com/awesome.mimun)  |[MiMUN](http://modelun.ru/)  |Moscow, Russia  |16.04 - 21.04  |
 |MUN |[F](https://www.facebook.com/EuroMUN/)  |[EuroMUN](http://www.euromun.org/)  |Maastricht, Netherlands  |26.04 - 30.04  |
-|MUN |[F](https://www.facebook.com/munusalpage)  |[MUNUSAL](http://munusal.org/)  |Salamanca, Spain  |-.04 |
 |MUN |[F](https://www.facebook.com/ZurichMUN/)  |[ZUMUN](http://zumun.ch/)  |Zurich, Switzerland  |04.05 - 07.05  |
 |MUN |[F](https://www.facebook.com/cmunbcn/)  |[C'MUN Barcelona](http://www.cmunbcn.org/)  |Barcelona, Spain  |11.05 - 14.05  |
+|MUN |[F](https://www.facebook.com/munusalpage)  |[MUNUSAL](http://munusal.org/)  |Salamanca, Spain  |17.04 - 21.04 |
 |MUN |[F](https://www.facebook.com/LyonMun/)  |[LyonMUN](http://www.lyonmun.org/)  |Lyon, France  |18.05 - 21.05  |
 |MUN |[F](https://www.facebook.com/ParisMUN/?fref=nf)  |[PiMUN](http://pimun.fr)  |Paris, France  |24.05 - 28.05  |
 |MUN  |[F](https://www.facebook.com/MUNICE/)  |[MUNICE](http://www.munice.org/)  |Nice, France  |08.06 - 11.06  |
