@@ -30,6 +30,7 @@
 |MUN |[F](https://www.facebook.com/almamunsociety/)  |[AlmaMUN](https://almamun.it/)  |Bologna, Italy  |26.10 - 29.10  |
 |MUN  |[F](https://www.facebook.com/ManMUNSociety/)  |[ManMUN](http://www.manmun.co.uk/)  |Manchester, England |28.10 - 30.10  |
 |MUN |[F](https://www.facebook.com/Naismun-977710995595812/)  |[NaiMUN](http://naismun.org.rs/)  |Nis, Serbia  |28.10 - 30.10  |
+|MUN |[F](https://www.facebook.com/groups/195665420558797/)  |[MintMUN](http://mintmun.org/)  |Minsk, Belarus |04.11 - 06.11  |
 |MUN |[F](https://www.facebook.com/bratmun.conference/)  |[BratMUN](http://bratmun.sk)  |Bratislava, Slovakia |04.11 - 06.11  |
 |MUN |[F](https://www.facebook.com/cumuns/)  |[CUIMUN](http://www.cuimun.org/)  |Cambridge, England  |04.11 - 06.11  |
 |MUN |[F](https://www.facebook.com/StockholmModelUnitedNations/)  |[SMUN](http://smun.se/)  |Stockholm, Sweden  |10.11 - 13.11  |
@@ -44,6 +45,7 @@
 |MUN |[F](https://www.facebook.com/BIMUNSINUBeV?fref=ts)  |[BIMUN](http://bimun.org/neue_hp/en/)  |Bonn, Germany  |30.11 - 04.12|
 |MUN |[F](https://www.facebook.com/HamburgMUN/)  |[HamMUN](http://hammun.de/)  |Hamburg, Germany  |01.12 - 04.12  |
 |MUN |[F](https://www.facebook.com/KarlMUNAachen/)  |[KarlMUN](http://www.karlmun.de/)  |Aachen, Germany  |02.12 - 04.12|  
+|MUN  |[F](http://una-uos.co.uk/sheffmun/#)  |[SheffMUN](http://una-uos.co.uk/sheffmun/)  |Sheffield, England |02.12 - 04.12  |
 |MUN  |[F](https://www.facebook.com/munrfe)  |[MUNRFE AC](http://munrfe.ru/ac2016)  |Vladivostok, Russia  |02.12 - 05.12  |
 |MUN |[F](https://www.facebook.com/isarmun/)  |[IsarMUN](http://www.isarmun.org/)  |Munich, Germany  |08.12 - 11.12  |
 |MUN |[F](https://www.facebook.com/aiasuj)  |JagMUN|Krakow, Poland  |09.12 - 11.12  |
@@ -59,16 +61,20 @@
 |MUN |F  |[UbiMUN](http://www.ubimun.org/)  |Birmingham, England  |27.01 - 29.01  |
 |MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, Ireland |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/uclmun/) |[UCLMUN](http://www.uclumodelunitednationssociety.com/) |London, England |27.01 - 29.01 |
+|MUN |[F](https://www.facebook.com/MUNAU/)  |[MUNAU](http://www.munau.de/)|Augustsburg, Germany  |09.02 - 11.02  |
 |MUN |[F](https://www.facebook.com/mainmunfrankfurt/)  |[MainMUN](http://www.mainmun.de/)  |Frankfurt, Germany  |23.02 - 26.02  |
 |MUN |[F](https://www.facebook.com/BayernModelUN)  |[BayernMUN](http://bayernmun.org/)  |Nüremberg, Germany  |24.02 - 26.02  |
 |MUN  |[F](https://www.facebook.com/LIMUNConference/?hc_location=ufi)  |[LIMUN](http://www.limun.org.uk/)  |London, England |24.02 - 26.02  |
 |MUN  |[F](https://www.facebook.com/URJCMUN)  |[URJC MUN](http://www.urjcmun.com/)  |Madrid, Spain  |-.02  |
 |MUN |[F](https://www.facebook.com/ScotMUN-292831064161005/)  |[ScotMUN](http://www.scotmun.com/) |Edinburgh, Scotland |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/LiverpoolMUN)  |[LivMUN](http://livmun.com/)  |Liverpool, England  |03.03 - 05.03  |
-|MUN |[F](https://www.facebook.com/CardiffMUN?fref=ts)  |CardiffMUN)  |Cardiff, Wales  |03.03 - 05.03  |
+|MUN |[F](https://www.facebook.com/CardiffMUN?fref=ts)  |[CardiffMUN](http://www.cardiffmodelun.co.uk/)  |Cardiff, Wales  |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/KULMUN/)  |[KULMUN](http://www.kulmun.be/)  |Leuven, Belgium  |07.03 - 11.03  |
 |MUN |[F](https://www.facebook.com/ROMEMUNOFFICIAL/)  |[Rome MUN](http://www.romemun.org/)  |Rome, Italy  |11.03 - 14.03  |
+|MUN  |[F](https://www.facebook.com/BIMUN.UNASerbia/)  |[BIMUN](http://www.bimun-unaserbia.org/)  |Belgrade, Serbia |15.03 - 19.03  |
 |MUN  |[F](https://www.facebook.com/medmun.menton)  |[MEDMUN](http://www.medmun.org/)  |Menton, France  |24.03 - 26.03  |
+|MUN  |[F](https://www.facebook.com/officialgimun)  |[GIMUN](http://gimun.org/)  |Geneva, Switzerland | -.03  |
+|MUN  |[F](https://www.facebook.com/muimun)  |[MUIMUN](http://www.muimun.org/)  |Münster, Germany |01.04 - 05.04  |
 |MUN |[F](https://www.facebook.com/UkraineMUN/)  |MUN Ukraine  |Lviv, Ukraine   |05.04 - 07.04  |
 |MUN |[F](https://www.facebook.com/awesome.mimun)  |[MiMUN](http://modelun.ru/)  |Moscow, Russia  |16.04 - 21.04  |
 |MUN |[F](https://www.facebook.com/munusalpage)  |[MUNUSAL](http://munusal.org/)  |Salamanca, Spain  |17.04 - 21.04 |
@@ -80,6 +86,7 @@
 |MUN  |[F](https://www.facebook.com/MUNICE/)  |[MUNICE](http://www.munice.org/)  |Nice, France  |08.06 - 11.06  |
 |MUN  |[F](https://www.facebook.com/AntwerpMUN/)  |[Antwerp MUN](http://www.antwerpmun.be/)  |Antwerp, Belgium  |-  |
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
+|MUN  |[F](https://www.facebook.com/Durham-University-Model-United-Nations-Conference-757718444278773/)  |[DUMUN](http://www.durmun.org/)  |Durham, England |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/finmun/)  |[FinMUN](http://www.finmun.org/)  |Helsinki, Finland  |-  |
 |MUN  |[F](https://www.facebook.com/UGentMUN/)  |[GhMUN](http://ugentmun.wixsite.com/diplomacy)  |Ghent, Belgium  |-  |
