@@ -43,7 +43,8 @@
 |MUN |[F](https://www.facebook.com/ReadiMUN/)|[ReadiMUN](http://www.readimun.org/tentative-schedule.html)|Reading, England|25.11 - 27.11
 |MUN |[F](https://www.facebook.com/BIMUNSINUBeV?fref=ts)  |[BIMUN](http://bimun.org/neue_hp/en/)  |Bonn, Germany  |30.11 - 04.12|
 |MUN |[F](https://www.facebook.com/HamburgMUN/)  |[HamMUN](http://hammun.de/)  |Hamburg, Germany  |01.12 - 04.12  |
-|MUN |[F](https://www.facebook.com/KarlMUNAachen/)  |[KarlMUN](http://www.karlmun.de/)  |Aachen, Germany  |02.12 - 04.12  |
+|MUN |[F](https://www.facebook.com/KarlMUNAachen/)  |[KarlMUN](http://www.karlmun.de/)  |Aachen, Germany  |02.12 - 04.12|  
+|MUN  |[F](https://www.facebook.com/munrfe)  |[MUNRFE AC](http://munrfe.ru/ac2016)  |Vladivostok, Russia  |02.12 - 05.12  |
 |MUN |[F](https://www.facebook.com/isarmun/)  |[IsarMUN](http://www.isarmun.org/)  |Munich, Germany  |08.12 - 11.12  |
 |MUN |[F](https://www.facebook.com/aiasuj)  |JagMUN|Krakow, Poland  |09.12 - 11.12  |
 
@@ -54,6 +55,7 @@
 |:---------:|:-:|:--------------------|:--------|:-----:|
 |MUN |[F](https://www.facebook.com/WorldMUNHD/)  |[HNMUN](http://www.worldmun-hd.de/)  |Heidelberg, Germany  |07.01 - 08.01  |
 |MUN |[F](https://www.facebook.com/WarwickMUN/)  |WarMUN  |Coventry, England  |13.01 - 15.01  |
+|MUN  |[F](https://www.facebook.com/narewskamun/)  |[NarMUN](http://narmun.pl/)  |Białystok, Poland  |26.01 - 29.01   |
 |MUN |F  |[UbiMUN](http://www.ubimun.org/)  |Birmingham, England  |27.01 - 29.01  |
 |MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, Ireland |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/uclmun/) |[UCLMUN](http://www.uclumodelunitednationssociety.com/) |London, England |27.01 - 29.01 |
