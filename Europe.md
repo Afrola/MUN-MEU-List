@@ -68,7 +68,7 @@
 |MUN  |[F](https://www.facebook.com/URJCMUN)  |[URJC MUN](http://www.urjcmun.com/)  |Madrid, Spain  |-.02  |
 |MUN |[F](https://www.facebook.com/ScotMUN-292831064161005/)  |[ScotMUN](http://www.scotmun.com/) |Edinburgh, Scotland |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/LiverpoolMUN)  |[LivMUN](http://livmun.com/)  |Liverpool, England  |03.03 - 05.03  |
-|MUN |[F](https://www.facebook.com/CardiffMUN?fref=ts)  |CardiffMUN)  |Cardiff, Wales  |03.03 - 05.03  |
+|MUN |[F](https://www.facebook.com/CardiffMUN?fref=ts)  |[CardiffMUN](http://www.cardiffmodelun.co.uk/)  |Cardiff, Wales  |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/KULMUN/)  |[KULMUN](http://www.kulmun.be/)  |Leuven, Belgium  |07.03 - 11.03  |
 |MUN |[F](https://www.facebook.com/ROMEMUNOFFICIAL/)  |[Rome MUN](http://www.romemun.org/)  |Rome, Italy  |11.03 - 14.03  |
 |MUN  |[F](https://www.facebook.com/BIMUN.UNASerbia/)  |[BIMUN](http://www.bimun-unaserbia.org/)  |Belgrade, Serbia |15.03 - 19.03  |
