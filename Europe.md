@@ -55,6 +55,7 @@
 |:---------:|:-:|:--------------------|:--------|:-----:|
 |MUN |[F](https://www.facebook.com/WorldMUNHD/)  |[HNMUN](http://www.worldmun-hd.de/)  |Heidelberg, Germany  |07.01 - 08.01  |
 |MUN |[F](https://www.facebook.com/WarwickMUN/)  |WarMUN  |Coventry, England  |13.01 - 15.01  |
+|MUN  |[F](https://www.facebook.com/narewskamun/)  |[NarMUN](http://narmun.pl/)  |Białystok, Poland  |26.01 - 29.01   |
 |MUN |F  |[UbiMUN](http://www.ubimun.org/)  |Birmingham, England  |27.01 - 29.01  |
 |MUN |[F](https://www.facebook.com/eiremun/) |[ÉireMUN](http://eiremun.com/) |Éire, Ireland |27.01 - 29.01 |
 |MUN |[F](https://www.facebook.com/uclmun/) |[UCLMUN](http://www.uclumodelunitednationssociety.com/) |London, England |27.01 - 29.01 |
@@ -105,6 +106,3 @@
 |MUN  |[F](https://www.facebook.com/tilburgmun)  |[TEIMUN](http://www.tilburgmun.com/)  |Tilburg, Netherlands|-  |
 |MUN  |[F](https://www.facebook.com/unisca.amsterdam/)  |[UNISCA](http://www.unisca.org/)  |Amsterdam, Netherlands |-  |
 |MUN  |[F](https://www.facebook.com/Wiesmun/)  |[WiesMUN](http://wiesmun.de/en)  |Wiesbaden, Germany |-  |
-
-
-|MUN  |[F]()  |[]()  |  |   |
