@@ -9,7 +9,6 @@
 |MUN |[F](https://www.facebook.com/MaltMUN)  |[MaltMUN](http://www.maltmun.org.mt/)  |Valletta, Malta  |09.09 - 11.09  |
 |MUN |[F](https://www.facebook.com/coaje.consejoatlanticojuvenilespanol/?fref=nf)  |[YMD](http://www.coaje.es/)  |Madrid, Spain  |12.09 - 18.09  
 |MUN |[F](https://www.facebook.com/munimun.cz)  |[MuniMUN](http://munimun.org/)  |Brno, Czech Republic  |14.09 - 18.09  |
-|MUN |[F](https://www.facebook.com/SloveniaInternationalModelofUnitedNations)  |[SiMUN](http://simunmeos.wixsite.com/simunmeos)  |Ljubljana, Slovenia   |19.09 - 23.09  |
 |MEU |[F](https://www.facebook.com/meu.madrid)  |[Madrid MEU](http://meu-madrid.wixsite.com/home) |Madrid, Spain |19.09 - 24.09 |
 |MUN |[F](https://www.facebook.com/szemun2010)  |[SzeMUN](http://szemun.sztehap.hu/)  |Szeged, Hungary  |29.09 - 02.10  |
 |MUN |[F](https://www.facebook.com/SaintAndrewsModelUnitedNations/)  |[Saint MUN](http://www.saintmun.co.uk/) |St Andrews, Scotland |30.09 - 02.10 |
