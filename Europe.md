@@ -15,6 +15,7 @@
 |MUN  |[F](https://www.facebook.com/SarajevoModelUN/)  |[Sarajevo MUN](https://sarajevomun.com/)  |Sarajevo, Bosnia and Herzegovina  |30.09 - 02.10  |
 |MEU |[F](https://www.facebook.com/modeleuropeanunionzagreb)  |[MEUZ](http://meuz.eu/)  |Zagreb, Croatia   |02.10 - 07.10   |
 |MUN |[F](https://www.facebook.com/UNISAMUN/)  |[UNISAMUN](http://www.unisamun.org/)  |Salermo, Italy  |10.10 - 14.10  |
+|MUN |[F](https://www.facebook.com/UAMIMUN-283391365110294/)  |[UAMIMUN](http://aumunuam.wixsite.com/aumun)  |Salermo, Italy  |11.10 - 15.10  |
 |MUN |[F](https://www.facebook.com/rhodesmrc)  |[RhodesMRC](http://www.rhodesmrc.org/2016/)  |Rhodes, Greece  |12.10 - 16.10  |
 |MUN |[F](https://www.facebook.com/LVMUN/)  |[LVMUN](http://lvmun.org/)  |Riga, Latvia  |14.10 - 16.10  |
 |MUN|[F](https://www.facebook.com/2014webmun/)  |WebMUN[](http://www.webmun.org/)  |Vienna, Austria  |15.10 - 17.10  |
