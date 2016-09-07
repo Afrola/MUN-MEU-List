@@ -69,6 +69,7 @@
 |MUN |[F](https://www.facebook.com/LiverpoolMUN)  |[LivMUN](http://livmun.com/)  |Liverpool, England  |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/CardiffMUN?fref=ts)  |[CardiffMUN](http://www.cardiffmodelun.co.uk/)  |Cardiff, Wales  |03.03 - 05.03  |
 |MUN |[F](https://www.facebook.com/KULMUN/)  |[KULMUN](http://www.kulmun.be/)  |Leuven, Belgium  |07.03 - 11.03  |
+|MUN  |[F](https://www.facebook.com/AntwerpMUN/)  |[Antwerp MUN](http://www.antwerpmun.be/)  |Antwerp, Belgium  |08.03 - 12.03  |
 |MUN |[F](https://www.facebook.com/ROMEMUNOFFICIAL/)  |[Rome MUN](http://www.romemun.org/)  |Rome, Italy  |11.03 - 14.03  |
 |MUN  |[F](https://www.facebook.com/BIMUN.UNASerbia/)  |[BIMUN](http://www.bimun-unaserbia.org/)  |Belgrade, Serbia |15.03 - 19.03  |
 |MUN  |[F](https://www.facebook.com/medmun.menton)  |[MEDMUN](http://www.medmun.org/)  |Menton, France  |24.03 - 26.03  |
@@ -83,7 +84,6 @@
 |MUN |[F](https://www.facebook.com/LyonMun/)  |[LyonMUN](http://www.lyonmun.org/)  |Lyon, France  |18.05 - 21.05  |
 |MUN |[F](https://www.facebook.com/ParisMUN/?fref=nf)  |[PiMUN](http://pimun.fr)  |Paris, France  |24.05 - 28.05  |
 |MUN  |[F](https://www.facebook.com/MUNICE/)  |[MUNICE](http://www.munice.org/)  |Nice, France  |08.06 - 11.06  |
-|MUN  |[F](https://www.facebook.com/AntwerpMUN/)  |[Antwerp MUN](http://www.antwerpmun.be/)  |Antwerp, Belgium  |-  |
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
 |MUN  |[F](https://www.facebook.com/Durham-University-Model-United-Nations-Conference-757718444278773/)  |[DUMUN](http://www.durmun.org/)  |Durham, England |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
