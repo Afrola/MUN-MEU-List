@@ -84,12 +84,12 @@
 |MUN |[F](https://www.facebook.com/LyonMun/)  |[LyonMUN](http://www.lyonmun.org/)  |Lyon, France  |18.05 - 21.05  |
 |MUN |[F](https://www.facebook.com/ParisMUN/?fref=nf)  |[PiMUN](http://pimun.fr)  |Paris, France  |24.05 - 28.05  |
 |MUN  |[F](https://www.facebook.com/MUNICE/)  |[MUNICE](http://www.munice.org/)  |Nice, France  |08.06 - 11.06  |
+|MUN  |[F](https://www.facebook.com/GoeMUN)  |[GöMUN](http://munsg.de/)  |Göttingen, Germany  |15.06 - 18.06  |
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
 |MUN  |[F](https://www.facebook.com/Durham-University-Model-United-Nations-Conference-757718444278773/)  |[DUMUN](http://www.durmun.org/)  |Durham, England |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/finmun/)  |[FinMUN](http://www.finmun.org/)  |Helsinki, Finland  |-  |
 |MUN  |[F](https://www.facebook.com/UGentMUN/)  |[GhMUN](http://ugentmun.wixsite.com/diplomacy)  |Ghent, Belgium  |-  |
-|MUN  |[F](https://www.facebook.com/GoeMUN)  |[GöMUN](http://munsg.de/)  |Göttingen, Germany  |-  |
 |MUN |[F](https://www.facebook.com/heidelberg.mun/)  |[HDMUN](http://www.hdmun.org/)  |Heidelberg, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KICSim](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KonMUN](http://unakonstanz.de/)  |Konstanz, Germany |-  |
