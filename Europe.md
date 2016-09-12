@@ -3,8 +3,6 @@
 ## 2016
 |MEU/MUN    |FB |Name                 |Place    | Date  |
 |:---------:|:-:|:--------------------|:--------|:-----:|
-|MEU |[F](https://www.facebook.com/meuwarsaw)  |[MEU Warsaw](http://www.meu-warsaw.pl/)  |Warsaw, Poland   |01.09 - 06.09  |
-|MUN  |[F](https://www.facebook.com/polmun.warsaw)  |[POLMUN](http://polmun.waw.pl/)  |Warsaw, Poland  |08.09 - 11.09  |
 |MUN  |[F](https://www.facebook.com/PlzenskaDiplomatickaSimulace)  |[PDS](http://www.plzenskasimulace.cz/en/)  |Pilsen, Czech Republic  |09.09 - 14.09  |
 |MUN |[F](https://www.facebook.com/MaltMUN)  |[MaltMUN](http://www.maltmun.org.mt/)  |Valletta, Malta  |09.09 - 11.09  |
 |MUN |[F](https://www.facebook.com/coaje.consejoatlanticojuvenilespanol/?fref=nf)  |[YMD](http://www.coaje.es/)  |Madrid, Spain  |12.09 - 18.09  
