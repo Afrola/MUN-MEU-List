@@ -3,7 +3,6 @@
 ## 2016
 |MEU/MUN    |FB |Name                 |Place    | Date  |
 |:---------:|:-:|:--------------------|:--------|:-----:|
-
 |MUN |[F](https://www.facebook.com/groups/195665420558797/)  |[MintMUN](http://mintmun.org/)  |Minsk, Belarus |04.11 - 06.11  |
 |MUN |[F](https://www.facebook.com/bratmun.conference/)  |[BratMUN](http://bratmun.sk)  |Bratislava, Slovakia |04.11 - 06.11  |
 |MUN |[F](https://www.facebook.com/cumuns/)  |[CUIMUN](http://www.cuimun.org/)  |Cambridge, England  |04.11 - 06.11  |
