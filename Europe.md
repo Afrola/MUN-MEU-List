@@ -34,6 +34,7 @@
 |MUN  |[F](https://www.facebook.com/Durham-University-Model-United-Nations-Conference-757718444278773/)  |[DUMUN](http://www.durmun.org/)  |Durham, England |29.01 - 31.09  |
 |MUN  |[F](https://www.facebook.com/modelunitednationsnancy/)  |[MUNancy](http://www.unancy.com/)  |Nancy, France  |03.02 - 05.02  |
 |MUN  |[F](https://www.facebook.com/MUNtainGrenoble)  |[MUNtain](http://www.muntaingrenoble.com/)  |Grenoble, France  |03.02 - 05.02  |
+|MUN |[F](https://www.facebook.com/MUNPrague/)  |[Prague MUN](http://www.praguemun.cz/)  |Prague, Czech Republic  |05.02 - 09.02  |
 |MUN |[F](https://www.facebook.com/MUNAU/)  |[MUNAU](http://www.munau.de/)|Augustsburg, Germany  |09.02 - 11.02  |
 |MUN |[F](https://www.facebook.com/mainmunfrankfurt/)  |[MainMUN](http://www.mainmun.de/)  |Frankfurt, Germany  |23.02 - 26.02  |
 |MEU |[F](https://www.facebook.com/MEUVienna)  |[MEU Vienna](http://www.meu-vienna.at/)  |Vienna, Austria   |23.02 - 26.02  |
@@ -51,7 +52,6 @@
 |MUN  |[F](https://www.facebook.com/officialgimun)  |[GIMUN](http://gimun.org/)  |Geneva, Switzerland | -.03  |
 |MUN  |[F](https://www.facebook.com/muimun)  |[MUIMUN](http://www.muimun.org/)  |Münster, Germany |01.04 - 05.04  |
 |MEU |[F](https://www.facebook.com/meustrasbourg/)  |[MEUS](http://www.meu-strasbourg.org/)  |Strasbourg, France   |02.04 - 09.04  |
-
 |MUN |[F](https://www.facebook.com/Milan-International-Model-United-Nations-MILMUN-45388276659/)|[MilMUN](http://www.milmun.org/)|Milan, Italy| 03.04 - 07.04 |
 |MUN |[F](https://www.facebook.com/UkraineMUN/)  |MUN Ukraine  |Lviv, Ukraine   |05.04 - 07.04  |
 |MUN |[F](https://www.facebook.com/awesome.mimun)  |[MiMUN](http://modelun.ru/)  |Moscow, Russia  |16.04 - 21.04  |
@@ -68,16 +68,14 @@
 |MEU |[F](https://www.facebook.com/BrusselsMEU/)  |[Brussels MEU](http://www.brusselsmeu.org/)  |Brussels, Belgium   |-  |
 |MUN  |[F](https://www.facebook.com/elbmun/)  |[ElbMUN](http://www.elbmun.org/)  |Dresden, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/UGentMUN/)  |[GhMUN](http://ugentmun.wixsite.com/diplomacy)  |Ghent, Belgium  |-  |
+|MUN  |[F](https://www.facebook.com/TEIMUN-90758019510/)  |[GRUNMUN](http://www.teimun.org/)  |The Hague, Netherlands|-  |
 |MUN |[F](https://www.facebook.com/heidelberg.mun/)  |[HDMUN](http://www.hdmun.org/)  |Heidelberg, Germany  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[KonMUN](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN |[F](https://www.facebook.com/munmannheim/?ref=py_c)  |[MaMUN](http://www.mun-mannheim.de/) |Mannheim, Germany  |-  |
 |MEU |[F](https://www.facebook.com/meumainz)  |[MEUM](http://meum.aegee-mainz.de/)  |Mainz, Germany   |-  |
 |MUN  |[F](https://www.facebook.com/MOSTIMUN/)  |[MOSTIMUN](http://mostimun.org/)  |Mostar, Bosnia and Herzegovina  |-  |
-
 |MUN |[F](https://www.facebook.com/PaderMUN-255587598684/)  |[PaderMUN](https://padermun.wordpress.com/)  |Paderborn, Germany  |-  |
-|MUN |[F](https://www.facebook.com/MUNPrague/)  |[Prague MUN](http://www.praguemun.cz/)  |Prague, Czech Republic  |-  |
 |MUN  |[F](https://www.facebook.com/UNAKN/)  |[SCSC](http://unakonstanz.de/)  |Konstanz, Germany |-  |
 |MUN  |[F](https://www.facebook.com/TEIMUN-90758019510/)  |[TEIMUN](http://www.teimun.org/)  |The Hague, Netherlands|-  |
-|MUN  |[F](https://www.facebook.com/tilburgmun)  |[TilburgMUN](http://www.tilburgmun.com/)  |Tilburg, Netherlands|-  |
 |MUN  |[F](https://www.facebook.com/unisca.amsterdam/)  |[UNISCA](http://www.unisca.org/)  |Amsterdam, Netherlands |-  |
 |MUN  |[F](https://www.facebook.com/Wiesmun/)  |[WiesMUN](http://wiesmun.de/en)  |Wiesbaden, Germany |-  |
