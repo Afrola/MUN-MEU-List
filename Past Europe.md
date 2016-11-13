@@ -29,3 +29,9 @@
 |MUN |[F](https://www.facebook.com/almamunsociety/)  |[AlmaMUN](https://almamun.it/)  |Bologna, Italy  |26.10 - 29.10  |
 |MUN  |[F](https://www.facebook.com/ManMUNSociety/)  |[ManMUN](http://www.manmun.co.uk/)  |Manchester, England |28.10 - 30.10  |
 |MUN |[F](https://www.facebook.com/Naismun-977710995595812/)  |[NaiMUN](http://naismun.org.rs/)  |Nis, Serbia  |28.10 - 30.10  |
+|MUN |[F](https://www.facebook.com/groups/195665420558797/)  |[MintMUN](http://mintmun.org/)  |Minsk, Belarus |04.11 - 06.11  |
+|MUN |[F](https://www.facebook.com/bratmun.conference/)  |[BratMUN](http://bratmun.sk)  |Bratislava, Slovakia |04.11 - 06.11  |
+|MUN |[F](https://www.facebook.com/cumuns/)  |[CUIMUN](http://www.cuimun.org/)  |Cambridge, England  |04.11 - 06.11  |
+|MUN |[F](https://www.facebook.com/StockholmModelUnitedNations/)  |[SMUN](http://smun.se/)  |Stockholm, Sweden  |10.11 - 13.11  |
+|MUN |[F](https://www.facebook.com/OxIMUN)  |[OxIMUN](http://www.oximun.org/)  |Oxford, England  |11.11 - 13.11  |
+
