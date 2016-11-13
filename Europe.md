@@ -4,7 +4,7 @@
 |MEU/MUN    |FB |Name                 |Place    | Date  |
 |:---------:|:-:|:--------------------|:--------|:-----:|
 |MUN |[F](https://www.facebook.com/munsiegen)  |[SiegMUN](http://www.mun-siegen.de/)  |Siegen, Germany  |16.11 - 19.11  |
-|MUN |[F](https://www.facebook.com/klemun2016/)  |KleMUN  |Kleve, Germany  |16.11 - 19.11  |
+|MUN |[F](https://www.facebook.com/klemun2016/)  |[KleMUN](http://www.hochschule-rhein-waal.de/en/page/kleve-model-united-nations-klemun-2016)  |Kleve, Germany  |16.11 - 19.11  |
 |MUN |[F](https://www.facebook.com/AsociacionUcmMun/)  |[MADMUN](http://ucmmun.weebly.com/)  |Madrid, Spain  |17.11 - 19.11  |
 |MUN |[F](https://www.facebook.com/KarlsruheMUN/)  |[KaMUN](http://kamun.org/)  |Karlsruhe, Germany  |18.11 - 20.11  |
 |MUN  |[F](https://www.facebook.com/EssexlModelUnitedNationsMUNEX/)  |[MUNEX](http://www.essexmun.com/)  |Essex, England  |18.11 - 20.11|
