@@ -17,7 +17,7 @@
 |MUN  |[F](http://una-uos.co.uk/sheffmun/#)  |[SheffMUN](http://una-uos.co.uk/sheffmun/)  |Sheffield, England |02.12 - 04.12  |
 |MUN  |[F](https://www.facebook.com/munrfe)  |[MUNRFE AC](http://munrfe.ru/ac2016)  |Vladivostok, Russia  |02.12 - 05.12  |
 |MUN |[F](https://www.facebook.com/isarmun/)  |[IsarMUN](http://www.isarmun.org/)  |Munich, Germany  |08.12 - 11.12  |
-|MUN |[F](https://www.facebook.com/aiasuj)  |JagMUN|Krakow, Poland  |09.12 - 11.12  |
+|MUN |[F](https://www.facebook.com/aiasuj)  |[JagMUN](http://www.iras.uj.edu.pl/en_GB/aias)|Krakow, Poland  |09.12 - 11.12  |
 
 
 
