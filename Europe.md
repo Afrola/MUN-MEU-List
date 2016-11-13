@@ -49,7 +49,7 @@
 |MUN |[F](https://www.facebook.com/ROMEMUNOFFICIAL/)  |[Rome MUN](http://www.romemun.org/)  |Rome, Italy  |11.03 - 14.03  |
 |MUN  |[F](https://www.facebook.com/BIMUN.UNASerbia/)  |[BIMUN](http://www.bimun-unaserbia.org/)  |Belgrade, Serbia |15.03 - 19.03  |
 |MUN  |[F](https://www.facebook.com/medmun.menton)  |[MEDMUN](http://www.medmun.org/)  |Menton, France  |24.03 - 26.03  |
-|MUN  |[F](https://www.facebook.com/officialgimun)  |[GIMUN](http://gimun.org/)  |Geneva, Switzerland | -.03  |
+|MUN  |[F](https://www.facebook.com/officialgimun)  |[GIMUN](http://gimun.org/)  |Geneva, Switzerland | 25.03 - 31.03  |
 |MUN  |[F](https://www.facebook.com/muimun)  |[MUIMUN](http://www.muimun.org/)  |Münster, Germany |01.04 - 05.04  |
 |MEU |[F](https://www.facebook.com/meustrasbourg/)  |[MEUS](http://www.meu-strasbourg.org/)  |Strasbourg, France   |02.04 - 09.04  |
 |MUN |[F](https://www.facebook.com/Milan-International-Model-United-Nations-MILMUN-45388276659/)|[MilMUN](http://www.milmun.org/)|Milan, Italy| 03.04 - 07.04 |
